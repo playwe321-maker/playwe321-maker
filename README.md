@@ -1,10 +1,11 @@
-## Hi there 👋
-# 한신대학교 aisw학과 양세훈입니다.
-## 한신대학교 aisw학과 양세훈입니다.
-### 한신대학교 aisw학과 양세훈입니다.
-#### 한신대학교 aisw학과 양세훈입니다.
-##### 한신대학교 aisw학과 양세훈입니다.
+# 한신대학교 aisw학과 양세훈입니다. 😊
+### 한신대학교 aisw학과 양세훈입니다. ❤️
+#### 한신대학교 aisw학과 양세훈입니다.👍
+##### 한신대학교 aisw학과 양세훈입니다. 💕
 
+Markdown 기법
+
+## Hi there 👋
 <!--
 **playwe321-maker/playwe321-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
