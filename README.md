@@ -1,7 +1,15 @@
 # 한신대학교 aisw학과 양세훈입니다. 😊
-🚀 [AISW] 양세훈 | Sehun Yang"The only way to do great work is to love what you do." > — Steve Jobs📋 ProfileUniversity: 한신대학교 (Hanshin Univ.)Major: AI·소프트웨어학과 (AISW)Status: Thinking, Coding, and Creating🛠 Tech Stack & InterestsCategoryKeywordsArtificial IntelligenceMachine Learning, Deep LearningSoftware DevPython, Java, Data StructureGoalEfficient & Clean Code💡 Philosophy[!TIP]"Logic will get you from A to B. Imagination will take you everywhere."논리는 당신을 A에서 B로 이끌지만, 상상력은 당신을 어디든 데려다줄 것입니다.— 알베르트 아인슈타인(Albert Einstein)
+🚀 [AISW] 양세훈 | Sehun Yang
 
-Markdown 기법
+"The only way to do great work is to love what you do." > — Steve Jobs📋 
+
+ProfileUniversity: 한신대학교 (Hanshin Univ.)
+
+Major: AI·소프트웨어학과 
+
+(AISW)Status: Thinking, Coding, and Creating🛠 Tech  
+
+Philosophy[!TIP]"Logic will get you from A to B. Imagination will take you everywhere."논리는 당신을 A에서 B로 이끌지만, 상상력은 당신을 어디든 데려다줄 것입니다.— 알베르트 아인슈타인(Albert Einstein)
 
 ## Hi there 👋
 <!--
